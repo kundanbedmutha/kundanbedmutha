@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kundan Sagar Bedmutha 馃憢</h1>
 
 <p align="center">
-  AI/ML Engineer &amp; Researcher &nbsp;路&nbsp; Explainable AI &nbsp;路&nbsp; NLP/LLMs &nbsp;路&nbsp; Multi-Agent Systems
+  AI/ML Engineer & Researcher &nbsp;路&nbsp; Explainable AI &nbsp;路&nbsp; NLP/LLMs &nbsp;路&nbsp; Multi-Agent Systems
 </p>
 
 <p align="center">
@@ -81,12 +81,12 @@ I like problems where the model has to be both *accurate* and *interpretable* 鈥
 ### 馃搳 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kundanbedmutha&show_icons=true&theme=default&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundanbedmutha&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=kundanbedmutha&show_icons=true&theme=default&hide_border=true&count_private=true" height="165">
+  <img src="https://streak-stats.demolab.com/?user=kundanbedmutha&hide_border=true" height="165">
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundanbedmutha&layout=compact&hide_border=true&langs_count=6" height="130">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundanbedmutha&layout=compact&hide_border=true&langs_count=6&count_private=true" height="130">
 </p>
 
 ---
