@@ -36,8 +36,8 @@ I like problems where the model has to be both *accurate* and *interpretable* �
 
 - **[XAI-Unify](https://github.com/kundanbedmutha/XAI-Unify)** — A unified Python API for explaining sklearn and PyTorch models with SHAP, LIME, and Captum through a single consistent interface, instead of learning three separate library APIs.
 - **[ApologySense](https://github.com/kundanbedmutha/ApologySense)** — Apology detection using a hybrid BERT model, published at ICETICS 2026.
+- **[CCDS](https://github.com/kundanbedmutha/CCDS-AI)** — [add one-line description], published at IC3SIS 2026 (Springer/IEEE).
 - **HybridMem** — Agent memory architecture library combining hybrid vector + knowledge-graph memory, RL-driven memory management, multi-agent semantic consistency, and GDPR-aligned privacy controls. *(add repo link once pushed)*
-- *[Add 1-2 more projects here as you push them]*
 
 ---
 
