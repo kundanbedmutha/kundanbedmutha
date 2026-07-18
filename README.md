@@ -37,7 +37,7 @@ I like problems where the model has to be both *accurate* and *interpretable* �
 - **[XAI-Unify](https://github.com/kundanbedmutha/XAI-Unify)** — A unified Python API for explaining sklearn and PyTorch models with SHAP, LIME, and Captum through a single consistent interface, instead of learning three separate library APIs.
 - **[ApologySense](https://github.com/kundanbedmutha/ApologySense)** — Apology detection using a hybrid BERT model, published at ICETICS 2026.
 - **[CCDS](https://github.com/kundanbedmutha/CCDS-AI)** — [add one-line description], published at IC3SIS 2026 (Springer/IEEE).
-- **HybridMem** — Agent memory architecture library combining hybrid vector + knowledge-graph memory, RL-driven memory management, multi-agent semantic consistency, and GDPR-aligned privacy controls. *(repo link coming soon)*
+- **HybridMem** — Agent memory architecture library combining hybrid vector + knowledge-graph memory, RL-driven memory management, multi-agent semantic consistency, and GDPR-aligned privacy controls. *(add repo link once pushed)*
 
 ---
 
@@ -50,9 +50,15 @@ I like problems where the model has to be both *accurate* and *interpretable* �
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-*(Trim/add based on what you actually use day-to-day)*
+**Core skills:** Model training & fine-tuning · Explainable AI (SHAP/LIME/Captum) · RAG pipelines · NLP/LLMs · Multi-agent systems · Experiment tracking · Model deployment · Data preprocessing & feature engineering
 
 ---
 
