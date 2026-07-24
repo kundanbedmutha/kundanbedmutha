@@ -42,13 +42,7 @@ I care about building systems that people can actually trust — not just black 
 |---|---|---|---|---|
 | 1 | **CCDS** — Causal-Counterfactual XAI for Actionable Decision Support | IC3SIS'26 — Springer/IEEE Kerala Section | ✅ Published | [10.1109/IC3SIS69949.2026.11608292](https://doi.org/10.1109/IC3SIS69949.2026.11608292) |
 | 2 | **ApologySense** — Hybrid Multilingual Transformer for Apology Sincerity Detection | ICETICS-2026 — IEEE MP Section | ✅ Accepted — DOI pending | — |
-| 3 | **FALCON** — Fuzzy-Augmented LLM Cooperative Optimization for Cloud Resource Management | ICCUBEA-2026 — IEEE | ✅ Accepted — DOI pending | — |
-| 4 | **RationalChain** — Neuro-Symbolic Framework for Explainable Autonomous Negotiation | ICCUBEA-2026 — IEEE | ✅ Accepted — DOI pending | — |
-| 5 | **HQC-Orch** — Hybrid Quantum-Classical ML Orchestration | ICCUBEA-2026 — IEEE | ✅ Accepted — DOI pending | — |
-| 6 | **MaternaAI** — Multimodal AI Agent for Pregnancy Symptom Guidance | ICCUBEA-2026 — IEEE | ✅ Accepted — DOI pending | — |
-| 7 | **ZK-Proofs for Supply Chain Accountability** — IGI Global Book Chapter | IGI Global Scientific Publishing | ✅ Published | [10.4018/979-8-3373-7087-3.ch009](https://doi.org/10.4018/979-8-3373-7087-3.ch009) |
-| + | 7 more papers across AI, XAI, NLP, LLMs, Ethical AI | Various IEEE conferences | 🟠 Submitted | — |
-| + | 11 more IGI Global book chapters | IGI Global | ✅ Accepted | — |
+| 3 | **ZK-Proofs for Supply Chain Accountability** — IGI Global Book Chapter | IGI Global Scientific Publishing | ✅ Published | [10.4018/979-8-3373-7087-3.ch009](https://doi.org/10.4018/979-8-3373-7087-3.ch009) |
 
 *Full list on [Google Scholar](https://scholar.google.com/citations?user=TiKq3mUAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Kundan-Bedmutha) · [ORCID](https://orcid.org/0009-0000-4391-3107)*
 
@@ -58,33 +52,12 @@ I care about building systems that people can actually trust — not just black 
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| **[CCDS-AI](https://github.com/kundanbedmutha/CCDS-AI)** | Causal-Counterfactual Decision Support — XAI framework integrating causal discovery, SCM-constrained counterfactual generation, and Intervention Prioritization Engine | Python · SHAP · Scikit-learn · PC Algorithm | ✅ Published — IEEE Xplore |
-| **[ApologySense](https://github.com/kundanbedmutha/ApologySense)** | Hybrid multilingual apology sincerity detector — XLM-RoBERTa + 21 engineered linguistic features — F1: 0.916, outperforms mBERT by 27.19% | PyTorch · HuggingFace · XLM-RoBERTa | ✅ Accepted — IEEE |
+| **[CCDS-AI]([https://github.com/kundanbedmutha/CCDS-AI](https://github.com/kundanbedmutha/CCDS-AI.git))** | Causal-Counterfactual Decision Support — XAI framework integrating causal discovery, SCM-constrained counterfactual generation, and Intervention Prioritization Engine | Python · SHAP · Scikit-learn · PC Algorithm | ✅ Published — IEEE Xplore |
+| **[ApologySense][(https://github.com/kundanbedmutha/ApologySense](https://github.com/kundanbedmutha/ApologySense.git))** | Hybrid multilingual apology sincerity detector — XLM-RoBERTa + 21 engineered linguistic features — F1: 0.916, outperforms mBERT by 27.19% | PyTorch · HuggingFace · XLM-RoBERTa | ✅ Accepted — IEEE |
 | **[Explainable RAG Pipeline](https://github.com/kundanbedmutha/explainable-rag-pipeline)** | RAG pipeline with transparency layer — shows which document chunks influenced each answer and why | LangChain · ChromaDB · OpenAI · Streamlit | ✅ Live |
 | **[MaternaAI](https://github.com/kundanbedmutha/materna-ai)** | Multimodal AI pregnancy companion — RAG + ensemble ML + Gemini 3.1 Pro — AUC 0.662 PPD risk | FastAPI · React.js · RAG · Gemini | ✅ Accepted — IEEE |
-| **[FALCON Lite](https://github.com/kundanbedmutha/cooperative-marl-cloud-scheduler)** | Cooperative MARL cloud scheduler — 84.12% CPU utilization vs 62.9% baseline | Python · NumPy · Multi-Agent RL | ✅ Accepted — IEEE |
-| **[XAI-Unify](https://github.com/kundanbedmutha/XAI-Unify)** | Unified Python API for SHAP · LIME · Captum — single consistent interface for sklearn and PyTorch models | Python · SHAP · LIME · Captum | ✅ pip installable |
-| **[HybridMem](https://github.com/kundanbedmutha/HybridMem)** | Agent memory architecture — hybrid vector + KG memory, RL-driven management, GDPR-aligned privacy | Python · Vector DB · Knowledge Graph | 🔄 In development |
-| **Research Paper Analyzer Agent** | Autonomous agent for research paper analysis — methodology evaluation, gap detection, statistical validation | OpenAI Codex · LangChain · RAG · FastAPI | 🔐 Patent pending |
-
----
-
-### 📊 Kaggle
-
-<p align="left">
-  <a href="https://www.kaggle.com/kundanbedmutha">
-    <img src="https://img.shields.io/badge/Datasets_Expert-Rank_251_of_9%2C668-20BEFF?style=flat&logo=kaggle&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/Top_2.6%25_Globally-20BEFF?style=flat&logo=kaggle&logoColor=white">
-</p>
-
-**Published Research Datasets:**
-
-| Dataset | Description | Size |
-|---|---|---|
-| [Multilingual Apology Sincerity Dataset](https://www.kaggle.com/kundanbedmutha/multilingual-apology-sincerity) | 5,190 annotated apology expressions — English, Hindi, Hinglish — Cohen's κ = 0.75 | 5,190 records |
-| [Cloud Scheduling Simulation Dataset](https://www.kaggle.com/kundanbedmutha/cloud-scheduling-simulation) | Google Cluster Trace based — 20 heterogeneous VMs — 300 training episodes | Simulation data |
-
+| **[FALCON]([https://github.com/kundanbedmutha/cooperative-marl-cloud-scheduler](https://github.com/kundanbedmutha/FALCON.git))** | Cooperative MARL cloud scheduler — 84.12% CPU utilization vs 62.9% baseline | Python · NumPy · Multi-Agent RL | ✅ Accepted — IEEE |
+| **[XAI-Unify]([https://github.com/kundanbedmutha/XAI-Unify](https://github.com/kundanbedmutha/XAI-Unify.git))** | Unified Python API for SHAP · LIME · Captum — single consistent interface for sklearn and PyTorch models | Python · SHAP · LIME · Captum | ✅ pip installable |
 ---
 
 ### 🛠️ Tech Stack
