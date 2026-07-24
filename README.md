@@ -52,7 +52,7 @@ I care about building systems that people can actually trust — not just black 
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| **[CCDS-AI]([https://github.com/kundanbedmutha/CCDS-AI](https://github.com/kundanbedmutha/CCDS-AI.git))** | Causal-Counterfactual Decision Support — XAI framework integrating causal discovery, SCM-constrained counterfactual generation, and Intervention Prioritization Engine | Python · SHAP · Scikit-learn · PC Algorithm | ✅ Published — IEEE Xplore |
+| **[CCDS-AI](https://github.com/kundanbedmutha/CCDS-AI.git)** | Causal-Counterfactual Decision Support — XAI framework integrating causal discovery, SCM-constrained counterfactual generation, and Intervention Prioritization Engine | Python · SHAP · Scikit-learn · PC Algorithm | ✅ Published — IEEE Xplore |
 | **[ApologySense][(https://github.com/kundanbedmutha/ApologySense](https://github.com/kundanbedmutha/ApologySense.git))** | Hybrid multilingual apology sincerity detector — XLM-RoBERTa + 21 engineered linguistic features — F1: 0.916, outperforms mBERT by 27.19% | PyTorch · HuggingFace · XLM-RoBERTa | ✅ Accepted — IEEE |
 | **[Explainable RAG Pipeline](https://github.com/kundanbedmutha/explainable-rag-pipeline)** | RAG pipeline with transparency layer — shows which document chunks influenced each answer and why | LangChain · ChromaDB · OpenAI · Streamlit | ✅ Live |
 | **[MaternaAI](https://github.com/kundanbedmutha/materna-ai)** | Multimodal AI pregnancy companion — RAG + ensemble ML + Gemini 3.1 Pro — AUC 0.662 PPD risk | FastAPI · React.js · RAG · Gemini | ✅ Accepted — IEEE |
