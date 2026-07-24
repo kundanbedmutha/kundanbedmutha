@@ -26,7 +26,7 @@
 
 ### 🎯 About Me
 
-I am a final-year B.Tech student in Artificial Intelligence and Data Science at Vishwakarma University, Pune — graduating 2027. Currently completing a year-long AI internship at **Novae Healthcare**, applying machine learning and predictive modelling to pharmaceutical drug discovery.
+I am a final-year B.Tech student in Artificial Intelligence and Data Science at Vishwakarma University, Pune — graduating 2027.
 
 My research investigates one central question: **how do we build AI systems that are not just accurate, but trustworthy, explainable, and accountable?**
 
@@ -53,11 +53,11 @@ I care about building systems that people can actually trust — not just black 
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | **[CCDS-AI](https://github.com/kundanbedmutha/CCDS-AI.git)** | Causal-Counterfactual Decision Support — XAI framework integrating causal discovery, SCM-constrained counterfactual generation, and Intervention Prioritization Engine | Python · SHAP · Scikit-learn · PC Algorithm | ✅ Published — IEEE Xplore |
-| **[ApologySense][(https://github.com/kundanbedmutha/ApologySense](https://github.com/kundanbedmutha/ApologySense.git))** | Hybrid multilingual apology sincerity detector — XLM-RoBERTa + 21 engineered linguistic features — F1: 0.916, outperforms mBERT by 27.19% | PyTorch · HuggingFace · XLM-RoBERTa | ✅ Accepted — IEEE |
+| **[ApologySense](https://github.com/kundanbedmutha/ApologySense.git)** | Hybrid multilingual apology sincerity detector — XLM-RoBERTa + 21 engineered linguistic features — F1: 0.916, outperforms mBERT by 27.19% | PyTorch · HuggingFace · XLM-RoBERTa | ✅ Accepted — IEEE |
 | **[Explainable RAG Pipeline](https://github.com/kundanbedmutha/explainable-rag-pipeline)** | RAG pipeline with transparency layer — shows which document chunks influenced each answer and why | LangChain · ChromaDB · OpenAI · Streamlit | ✅ Live |
 | **[MaternaAI](https://github.com/kundanbedmutha/materna-ai)** | Multimodal AI pregnancy companion — RAG + ensemble ML + Gemini 3.1 Pro — AUC 0.662 PPD risk | FastAPI · React.js · RAG · Gemini | ✅ Accepted — IEEE |
-| **[FALCON]([https://github.com/kundanbedmutha/cooperative-marl-cloud-scheduler](https://github.com/kundanbedmutha/FALCON.git))** | Cooperative MARL cloud scheduler — 84.12% CPU utilization vs 62.9% baseline | Python · NumPy · Multi-Agent RL | ✅ Accepted — IEEE |
-| **[XAI-Unify]([https://github.com/kundanbedmutha/XAI-Unify](https://github.com/kundanbedmutha/XAI-Unify.git))** | Unified Python API for SHAP · LIME · Captum — single consistent interface for sklearn and PyTorch models | Python · SHAP · LIME · Captum | ✅ pip installable |
+| **[FALCON](https://github.com/kundanbedmutha/FALCON.git)** | Cooperative MARL cloud scheduler — 84.12% CPU utilization vs 62.9% baseline | Python · NumPy · Multi-Agent RL | ✅ Accepted — IEEE |
+| **[XAI-Unify](https://github.com/kundanbedmutha/XAI-Unify.git)** | Unified Python API for SHAP · LIME · Captum — single consistent interface for sklearn and PyTorch models | Python · SHAP · LIME · Captum | ✅ pip installable |
 ---
 
 ### 🛠️ Tech Stack
