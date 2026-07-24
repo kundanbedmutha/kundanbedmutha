@@ -99,7 +99,6 @@ Explainable AI · Causal Inference · LLMs · RAG Pipelines · Multi-Agent RL ·
 | 📄 Certificate of Presentation | IC3SIS'26 — IEEE Kerala Section | 2026 |
 | 📄 Certificate of Presentation | ICETICS-2026 — IEEE MP Section | 2026 |
 | 🏅 Datasets Expert — Rank 251 of 9,668 | Kaggle — Top 2.6% Globally | 2026 |
-| 🔐 Patent Application Filed | Indian Patent Office | 2026 |
 
 ---
 
