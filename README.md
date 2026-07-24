@@ -1,47 +1,95 @@
 <h1 align="center">Hi, I'm Kundan Sagar Bedmutha 👋</h1>
 
 <p align="center">
-AI/ML Engineer & Researcher · Explainable AI · NLP · Multi-Agent Systems
+  <b>AI Researcher & Engineer · Explainable AI · LLMs · Multi-Agent Systems · Healthcare AI</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kundanbedmutha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://scholar.google.com/citations?user=TiKq3mUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"></a>
-  <a href="https://www.researchgate.net/profile/Kundan-Bedmutha"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"></a>
-  <a href="https://orcid.org/0009-0000-4391-3107"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kundanbedmutha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://scholar.google.com/citations?user=TiKq3mUAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white">
+  </a>
+  <a href="https://www.researchgate.net/profile/Kundan-Bedmutha">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white">
+  </a>
+  <a href="https://orcid.org/0009-0000-4391-3107">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white">
+  </a>
+  <a href="https://www.kaggle.com/kundanbedmutha">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ### 🎯 About Me
 
-I'm a B.Tech student in Artificial Intelligence and Data Science, currently working as an **AI Engineer Intern**, building ML models for drug discovery. My research sits at the intersection of **Explainable AI, NLP/LLMs, RAG, and multi-agent systems**, and I've published across IEEE and Springer venues while still an undergrad.
+I am a final-year B.Tech student in Artificial Intelligence and Data Science at Vishwakarma University, Pune — graduating 2027. Currently completing a year-long AI internship at **Novae Healthcare**, applying machine learning and predictive modelling to pharmaceutical drug discovery.
 
-I like problems where the model has to be both *accurate* and *interpretable* — and I care about building systems that people can actually trust and understand, not just black boxes that perform well on a leaderboard.
+My research investigates one central question: **how do we build AI systems that are not just accurate, but trustworthy, explainable, and accountable?**
+
+Across 14+ submitted papers at IEEE conferences and Springer proceedings — spanning Explainable AI, LLMs, RAG, Multi-Agent RL, Neuro-Symbolic AI, Ethical AI, NLP, Healthcare AI, and Quantum-Classical Computing — I have approached this question from every angle simultaneously.
+
+I care about building systems that people can actually trust — not just black boxes that perform well on a leaderboard.
 
 ---
 
 ### 🔬 Research & Publications
 
-| Project | Description | Venue |
-|---|---|---|
-| **CCDS** | [add one-line description] | IC3SIS 2026 (Springer/IEEE) |
-| **ApologySense** | Apology detection using a hybrid BERT model | ICETICS 2026 (IEEE) |
+| # | Paper | Venue | Status | DOI |
+|---|---|---|---|---|
+| 1 | **CCDS** — Causal-Counterfactual XAI for Actionable Decision Support | IC3SIS'26 — Springer/IEEE Kerala Section | ✅ Published | [10.1109/IC3SIS69949.2026.11608292](https://doi.org/10.1109/IC3SIS69949.2026.11608292) |
+| 2 | **ApologySense** — Hybrid Multilingual Transformer for Apology Sincerity Detection | ICETICS-2026 — IEEE MP Section | ✅ Accepted — DOI pending | — |
+| 3 | **FALCON** — Fuzzy-Augmented LLM Cooperative Optimization for Cloud Resource Management | ICCUBEA-2026 — IEEE | ✅ Accepted — DOI pending | — |
+| 4 | **RationalChain** — Neuro-Symbolic Framework for Explainable Autonomous Negotiation | ICCUBEA-2026 — IEEE | ✅ Accepted — DOI pending | — |
+| 5 | **HQC-Orch** — Hybrid Quantum-Classical ML Orchestration | ICCUBEA-2026 — IEEE | ✅ Accepted — DOI pending | — |
+| 6 | **MaternaAI** — Multimodal AI Agent for Pregnancy Symptom Guidance | ICCUBEA-2026 — IEEE | ✅ Accepted — DOI pending | — |
+| 7 | **ZK-Proofs for Supply Chain Accountability** — IGI Global Book Chapter | IGI Global Scientific Publishing | ✅ Published | [10.4018/979-8-3373-7087-3.ch009](https://doi.org/10.4018/979-8-3373-7087-3.ch009) |
+| + | 7 more papers across AI, XAI, NLP, LLMs, Ethical AI | Various IEEE conferences | 🟠 Submitted | — |
+| + | 11 more IGI Global book chapters | IGI Global | ✅ Accepted | — |
 
-*Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=TiKq3mUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kundan-Bedmutha).*
+*Full list on [Google Scholar](https://scholar.google.com/citations?user=TiKq3mUAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Kundan-Bedmutha) · [ORCID](https://orcid.org/0009-0000-4391-3107)*
 
 ---
 
 ### 🚀 Featured Projects
 
-- **[XAI-Unify](https://github.com/kundanbedmutha/XAI-Unify)** — A unified Python API for explaining sklearn and PyTorch models with SHAP, LIME, and Captum through a single consistent interface, instead of learning three separate library APIs.
-- **[ApologySense](https://github.com/kundanbedmutha/ApologySense)** — Apology detection using a hybrid BERT model, published at ICETICS 2026.
-- **[CCDS](https://github.com/kundanbedmutha/CCDS-AI)** — [add one-line description], published at IC3SIS 2026 (Springer/IEEE).
-- **HybridMem** — Agent memory architecture library combining hybrid vector + knowledge-graph memory, RL-driven memory management, multi-agent semantic consistency, and GDPR-aligned privacy controls. *(add repo link once pushed)*
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| **[CCDS-AI](https://github.com/kundanbedmutha/CCDS-AI)** | Causal-Counterfactual Decision Support — XAI framework integrating causal discovery, SCM-constrained counterfactual generation, and Intervention Prioritization Engine | Python · SHAP · Scikit-learn · PC Algorithm | ✅ Published — IEEE Xplore |
+| **[ApologySense](https://github.com/kundanbedmutha/ApologySense)** | Hybrid multilingual apology sincerity detector — XLM-RoBERTa + 21 engineered linguistic features — F1: 0.916, outperforms mBERT by 27.19% | PyTorch · HuggingFace · XLM-RoBERTa | ✅ Accepted — IEEE |
+| **[Explainable RAG Pipeline](https://github.com/kundanbedmutha/explainable-rag-pipeline)** | RAG pipeline with transparency layer — shows which document chunks influenced each answer and why | LangChain · ChromaDB · OpenAI · Streamlit | ✅ Live |
+| **[MaternaAI](https://github.com/kundanbedmutha/materna-ai)** | Multimodal AI pregnancy companion — RAG + ensemble ML + Gemini 3.1 Pro — AUC 0.662 PPD risk | FastAPI · React.js · RAG · Gemini | ✅ Accepted — IEEE |
+| **[FALCON Lite](https://github.com/kundanbedmutha/cooperative-marl-cloud-scheduler)** | Cooperative MARL cloud scheduler — 84.12% CPU utilization vs 62.9% baseline | Python · NumPy · Multi-Agent RL | ✅ Accepted — IEEE |
+| **[XAI-Unify](https://github.com/kundanbedmutha/XAI-Unify)** | Unified Python API for SHAP · LIME · Captum — single consistent interface for sklearn and PyTorch models | Python · SHAP · LIME · Captum | ✅ pip installable |
+| **[HybridMem](https://github.com/kundanbedmutha/HybridMem)** | Agent memory architecture — hybrid vector + KG memory, RL-driven management, GDPR-aligned privacy | Python · Vector DB · Knowledge Graph | 🔄 In development |
+| **Research Paper Analyzer Agent** | Autonomous agent for research paper analysis — methodology evaluation, gap detection, statistical validation | OpenAI Codex · LangChain · RAG · FastAPI | 🔐 Patent pending |
+
+---
+
+### 📊 Kaggle
+
+<p align="left">
+  <a href="https://www.kaggle.com/kundanbedmutha">
+    <img src="https://img.shields.io/badge/Datasets_Expert-Rank_251_of_9%2C668-20BEFF?style=flat&logo=kaggle&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/Top_2.6%25_Globally-20BEFF?style=flat&logo=kaggle&logoColor=white">
+</p>
+
+**Published Research Datasets:**
+
+| Dataset | Description | Size |
+|---|---|---|
+| [Multilingual Apology Sincerity Dataset](https://www.kaggle.com/kundanbedmutha/multilingual-apology-sincerity) | 5,190 annotated apology expressions — English, Hindi, Hinglish — Cohen's κ = 0.75 | 5,190 records |
+| [Cloud Scheduling Simulation Dataset](https://www.kaggle.com/kundanbedmutha/cloud-scheduling-simulation) | Google Cluster Trace based — 20 heterogeneous VMs — 300 training episodes | Simulation data |
 
 ---
 
 ### 🛠️ Tech Stack
+
+**AI/ML:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -49,30 +97,52 @@ I like problems where the model has to be both *accurate* and *interpretable* �
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+**Engineering:**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Core skills:** Model training & fine-tuning · Explainable AI (SHAP/LIME/Captum) · RAG pipelines · NLP/LLMs · Multi-agent systems · Experiment tracking · Model deployment · Data preprocessing & feature engineering
+**Data:**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Core Skills:**
+Explainable AI · Causal Inference · LLMs · RAG Pipelines · Multi-Agent RL · NLP · Ethical AI · Healthcare AI · Quantum-Classical ML · Model Fine-tuning · MLOps · Feature Engineering
+
+---
+
+### 🏆 Awards & Recognition
+
+| Award | Issuer | Year |
+|---|---|---|
+| 🥉 3rd Place — Machine Learning Track | Navratri Codethon 2025 — VU Dept. of AI | 2025 |
+| 📄 Certificate of Presentation | IC3SIS'26 — IEEE Kerala Section | 2026 |
+| 📄 Certificate of Presentation | ICETICS-2026 — IEEE MP Section | 2026 |
+| 🏅 Datasets Expert — Rank 251 of 9,668 | Kaggle — Top 2.6% Globally | 2026 |
+| 🔐 Patent Application Filed | Indian Patent Office | 2026 |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kundanbedmutha&show_icons=true&theme=default" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundanbedmutha" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=kundanbedmutha&show_icons=true&theme=default&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundanbedmutha&hide_border=true" height="165">
 </p>
 
 ---
 
 ### 📫 Reach Me
 
-- 📍 Pune, India
+- 📍 Pune, Maharashtra, India
 - 💼 [LinkedIn](https://www.linkedin.com/in/kundanbedmutha/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=TiKq3mUAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Kundan-Bedmutha) · [ORCID](https://orcid.org/0009-0000-4391-3107)
+- 📊 [Kaggle](https://www.kaggle.com/kundanbedmutha)
+- 📧 kundanbedmutha27@gmail.com
