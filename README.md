@@ -63,7 +63,7 @@ I care about building systems that people can actually trust — not just black 
 | 6 | **HalluDetect-IN** — A Lightweight Feature-Based Hallucination Detection Framework for Hindi and Marathi LLMs | IDICAIHEI-2026 · IEEE · Scopus-indexed | 🟢 Accepted | — |
 | 7 | **CE-MAS** — A Federated MARL Framework for Trust-Aware Industrial Symbiosis | IDICAIHEI-2026 · IEEE · Scopus-indexed | 🟢 Accepted | — |
 | 8 | **Mental Health Signal Detection** in Social Media with Multi-Model Classification and Explainable AI | HITA2026 · Springer LNNS · Scopus-indexed | 🟢 Accepted | — |
-| 9 | **Towards Weather-Adaptive Secure 6G** — A Hybrid QKD Protocol Selection Framework for THz Links | ICE2CPT-2026 · IEEE | 🟢 Accepted | — |
+| 9 | **Towards Weather-Adaptive Secure 6G** — A Hybrid QKD Protocol Selection Framework for THz Links | ICE2CPT-2026 · IEEE Xplore | 🟢 Accepted | — |
 | 10 | **FarmSense AI** — XAI-Driven Crop Yield Prediction Under Climate Stress in India | ICoICET-2026 · IEEE | 🟢 Accepted · Presented | — |
 | 11 | **SMART-AgRAG** — Retrieval-Augmented Generation for Precision Agriculture | ICoICET-2026 · IEEE | 🟢 Accepted · Presented | — |
 | 12 | **FALCON** — Fuzzy-Augmented LLM Cooperative Optimization Network for Intelligent Cloud Resource Management | ICCMSE-2026 · IEEE | 🟢 Accepted · Presented | — |
